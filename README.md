@@ -1,6 +1,6 @@
 # Bank-Customer-Churn-Analysis
 
-**Project Title: Bank Customer Churn Analysis**
+#**Project Title: Bank Customer Churn Analysis**
 
 **Overview:**
 The "Bank Customer Churn Analysis" project is aimed at predicting and understanding customer churn in the banking sector. By leveraging a dataset containing various customer attributes and banking interactions, this project employs data cleaning, visualization, preprocessing, and K-means clustering to identify patterns and potential indicators of customer churn.
