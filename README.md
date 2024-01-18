@@ -8,7 +8,7 @@ The "Bank Customer Churn Analysis" project is aimed at predicting and understand
 1. **Data Collection and Cleaning:**
    - Gathered a comprehensive dataset including features such as age, job, marital status, education, default status, housing loan status, personal loan status, contact type, month, day of the week, call duration, campaign details, and economic indicators.
    - Employed data cleaning techniques to handle missing values, outliers, and inconsistencies in the dataset.
-   - Ensured data integrity for reliable analysis and modeling.
+   - Ensured data integrity for reliable analysis and modelling.
 
 2. **Exploratory Data Analysis (EDA):**
    - Visualized the distribution and relationships between different features to gain insights into the dataset.
