@@ -23,7 +23,7 @@ The "Bank Customer Churn Analysis" project is aimed at predicting and understand
 4. **K-means Clustering:**
    - Applied the K-means clustering algorithm to group customers based on their similarity in features.
    - Utilized the clustering results to identify distinct customer segments and potential churn patterns.
-   - Examined centroid characteristics to understand key attributes influencing customer behavior.
+   - Examined centroid characteristics to understand key attributes influencing customer behaviour.
 
 5. **Model Creation:**
    - Successfully implemented the K-means clustering algorithm to create a model for customer segmentation.
