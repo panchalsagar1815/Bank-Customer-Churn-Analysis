@@ -1,4 +1,4 @@
-# Bank-Customer-Churn-Analysis
+# Bank-Customer-Churn
 # **Project Title: Bank Customer Churn Analysis**
 
 **Overview:**
